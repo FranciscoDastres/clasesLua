@@ -9,9 +9,8 @@
 else
     print(" aun te falta mi pequeño tilin")
 end]]
-
-
-for i = 10, 19, 1
+for i = 10, 0, -2
+-- la declaracion del for es diferente y muy practica el primer valor es donde iniciara luego hasta donde y el tercero se refiere a de cuanto en cuanto va sumando o restando para llegar al limite declarado anteriormente
 do
     print(i)
 end
