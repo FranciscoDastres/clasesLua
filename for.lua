@@ -4,11 +4,11 @@
 --print("el numero ingresado es ", entrada + 1)
 
 
-if (entrada >= 21) then
+--[[if (entrada >= 21) then
     print("puedes acceder al siguiente nivel")
 else
     print(" aun te falta mi pequeño tilin")
-end
+end]]
 
 
 for i = 10, 19, 1
